@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mebi-gizlilik/static/css/main.e6c13ad2.css",
+    "main.js": "/mebi-gizlilik/static/js/main.75293c23.js",
+    "static/js/453.f67cb394.chunk.js": "/mebi-gizlilik/static/js/453.f67cb394.chunk.js",
+    "index.html": "/mebi-gizlilik/index.html",
+    "main.e6c13ad2.css.map": "/mebi-gizlilik/static/css/main.e6c13ad2.css.map",
+    "main.75293c23.js.map": "/mebi-gizlilik/static/js/main.75293c23.js.map",
+    "453.f67cb394.chunk.js.map": "/mebi-gizlilik/static/js/453.f67cb394.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75293c23.js"
+  ]
+}
